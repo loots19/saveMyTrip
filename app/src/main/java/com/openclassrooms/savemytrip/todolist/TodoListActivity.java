@@ -132,6 +132,6 @@ public class TodoListActivity extends BaseActivity implements ItemAdapter.Listen
         this.adapter.updateData(items);
     }
 
-    //
+    
 
 }
